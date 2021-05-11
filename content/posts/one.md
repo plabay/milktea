@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 05-11-2021
+date = 2021-05-11
 title = "Test Post"
 description = "A Cool Post"
 slug = "important"
