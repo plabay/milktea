@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "title (2)"
+title = "praise as an owl"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "author (15)"
-description = "description (16)"
+author = "paulene"
+description = "purple owl"
 keywords = "site, all"
-info = "info (17)"
+info = "another owl"
 avatarURL = "images/owlpink.png"
 # gravatar = "images/owlpink.png"
 footerContent = "footerContent. (21)"
